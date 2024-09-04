@@ -1,7 +1,10 @@
+
 body {
-  background: url(https://telegra.ph/file/76f8c8ec60ad2b7e9b220.jpg) no-repeat;
+  background: url(yassen.png) no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
+  width: 400px;
+  height: 600px;
 }
 
 .wrapper {
